@@ -15,7 +15,9 @@ The goal is to understand sales performance and support practical store decision
 | Tableau | Visualize sales performance and analysis results |
 
 ## Sales Overview
+
 [![Shopee Sales Overview dashboard](images/sales_overview.png)](https://public.tableau.com/app/profile/yang.sheng.lin/viz/ShopeeSalesOverview/SalesOverview)
+
 **Business question:** How did sales change over the year, which products contributed most to sales, and how did sales and shipping choices vary by day type?
 
 ### Approach
