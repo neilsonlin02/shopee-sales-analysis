@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Private order data
+/data/orders_combined.csv
+/data/data_columns_cleaned.csv
+
+# Local environment and macOS files
+.venv/
+.DS_Store
