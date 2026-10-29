@@ -1,0 +1,6 @@
+day_type,total_days,orders_per_day,sales_per_day,returns_per_day,avg_order_value
+All Campaign Days,36,11.11,4113.92,0.0,370.25
+Regular Day,329,7.71,2770.87,21.88,359.19
+18th Campaign,12,11.58,4318.83,0.0,372.85
+25th Campaign,12,8.75,3155.42,0.0,360.62
+Monthly Special,12,13.0,4867.5,0.0,374.42
