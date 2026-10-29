@@ -16,7 +16,7 @@ The goal is to understand sales performance and support practical store decision
 
 ## Sales Overview
 
-[![Shopee Sales Overview dashboard](images/sales_overview.png)](https://public.tableau.com/app/profile/yang.sheng.lin/viz/ShopeeSalesOverview/SalesOverview)
+[![Shopee Sales Overview dashboard](images/Sales%20Overview.png)](https://public.tableau.com/app/profile/yang.sheng.lin/viz/ShopeeSalesOverview/SalesOverview)
 
 **Business question:** How did sales change over the year, which products contributed most to sales, and how did sales and shipping choices vary by day type?
 
@@ -54,6 +54,8 @@ Shipping percentages are based on distinct orders within each group. Sales share
 - [Campaign comparison results](outputs/campaign_comparison.csv)
 
 ## Business Case: Monk Fruit Sweetener Restocking
+
+[![Monk Fruit Sweetener Restocking Plan dashboard](images/Monk%20Fruit%20Sweetener%20%E2%80%94%20Restocking%20Plan.png)](https://public.tableau.com/app/profile/yang.sheng.lin/viz/restockinganalysis-workingdraft/MonkFruitSweetenerRestockingPlan)
 
 **Business question:** What practical replenishment rule could help the store prepare for sales during a three-day replenishment buffer?
 
